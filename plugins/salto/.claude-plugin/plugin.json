@@ -1,0 +1,10 @@
+{
+  "name": "salto",
+  "displayName": "Salto para o Dólar",
+  "description": "Ferramentas prontas do Salto para o Dólar: /portfolio (monta portfólio no padrão gringo) e /proposta (proposta comercial que fecha em dólar). Método da Clarisse.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Thiago Medeiros",
+    "email": "contato@thiagodesigner.com"
+  }
+}

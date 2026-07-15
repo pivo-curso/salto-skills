@@ -1,0 +1,15 @@
+{
+  "name": "salto-skills",
+  "owner": {
+    "name": "Thiago Medeiros",
+    "email": "contato@thiagodesigner.com"
+  },
+  "description": "Ferramentas do Salto para o Dólar — skills prontas de Claude Code pros alunos.",
+  "plugins": [
+    {
+      "name": "salto",
+      "source": "./plugins/salto",
+      "description": "Skills do Salto para o Dólar: /portfolio (portfólio no padrão gringo) e /proposta (proposta que fecha em dólar)."
+    }
+  ]
+}
