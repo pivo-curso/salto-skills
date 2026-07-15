@@ -10,7 +10,7 @@ Ferramentas prontas de **Claude Code** do curso **Salto para o Dólar / Pivô**.
 No Claude Code, rode os dois comandos:
 
 ```
-/plugin marketplace add SEU-USUARIO/salto-skills
+/plugin marketplace add TiRRaLu/salto-skills
 /plugin install salto@salto-skills
 ```
 
