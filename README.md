@@ -1,6 +1,6 @@
 # Salto para o Dólar — Skills
 
-Ferramentas prontas de **Claude Code** do curso **Salto para o Dólar / Pivô**: `/portfolio` e `/proposta`. Instala uma vez e usa direto no seu Claude.
+Ferramentas prontas de **Claude Code** do curso **Salto para o Dólar / Pivot**: `/portfolio` e `/proposta`. Instala uma vez e usa direto no seu Claude.
 
 ## ⚠️ Antes de tudo
 Você precisa do **Claude Code** — no **app desktop** ou no **terminal**.
